@@ -3,7 +3,7 @@ The main idea behind transfer learning is enhancing inter-domain transferability
 
 
 ## Multi-source domain adaptation
-During my research on traditional unsupervised domain adaptation,  I wanna find a cross-atlas diagnose solution for Alzheimer's and [CDLS](https://ieeexplore.ieee.org/document/7780918) inspired me. I derived a multi-site diagnose model from CDLS and reformulated it into a QP form in [multi-source domain adaptation](https://github.com/k0ngyiji/Scripts/blob/master/multi-source%20domain%20adaptation.pdf), but this model failed in my data.
+During my research on traditional Unsupervised Domain Adaptation,  I wanna find a cross-atlas diagnose solution for Alzheimer's and [CDLS](https://ieeexplore.ieee.org/document/7780918) inspired me. I derived a multi-site diagnose model from CDLS and reformulated it into a QP form in [multi-source domain adaptation](https://github.com/k0ngyiji/Scripts/blob/master/multi-source%20domain%20adaptation.pdf), but this model failed in my data.
 
 
 ## Transformer and Graph Neural Networks
