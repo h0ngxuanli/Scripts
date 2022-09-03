@@ -7,4 +7,4 @@ During my research on traditional Unsupervised Domain Adaptation,  I wanna find 
 
 
 ## Transformer and Graph Neural Networks
-I have met a lot of Transformer models during intern and [VectorNet](https://arxiv.org/abs/2005.04259) is the most elegant and inspiring work among them. I wrote [self-attention and GCN.pdf](https://github.com/k0ngyiji/Scripts/blob/master/self-attention%20and%20GCN.pdf) for a group meeting on how to model interactions between traffic agents.
+I met a lot of Transformer models during intern and [VectorNet](https://arxiv.org/abs/2005.04259) is the most elegant and inspiring work among them. I wrote [self-attention and GCN.pdf](https://github.com/k0ngyiji/Scripts/blob/master/self-attention%20and%20GCN.pdf) for a group meeting on how to model interactions among traffic agents.
