@@ -1,5 +1,5 @@
 ## Why and How transfer learning can learn?
-The main idea behind transfer learning is enhancing inter-domain transferability and intra-domain discriminability. $\textit{Ben-David’s Theorem}$ demystifies transfer learning and fascinates me greatly. I wrote [survey of UDA.pdf](https://github.com/k0ngyiji/Scripts/blob/master/survey%20of%20UDA.pdf) as a brief summary for my research experience on Unsupervised Domain Adaptation.
+The main idea behind transfer learning is enhancing inter-domain transferability and intra-domain discriminability. _Ben-David’s Theorem_ demystifies transfer learning and fascinates me greatly. I wrote [survey of UDA.pdf](https://github.com/k0ngyiji/Scripts/blob/master/survey%20of%20UDA.pdf) as a brief summary for my research experience on Unsupervised Domain Adaptation.
 
 
 ## Multi-source domain adaptation
